@@ -1,3 +1,5 @@
 # Respuestas TP02 
 ## 2 - f
-	No se puede encontrar al inspeccionar la rama principal porque la creación del archivo se efectuó en la rama Opcion-2  
+	No se puede encontrar al inspeccionar la rama principal porque la creación del archivo se efectuó en la rama Opcion-2 
+	Al realizar el commit del archivo respuestas.txt apareció la rama con el arhivo tp02-1-2
+	Ahora se pueden ver más relaciones en el gráfico, se puede ver los cambios de los archivos y también la relación de las ramas	
