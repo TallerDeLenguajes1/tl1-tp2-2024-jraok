@@ -1,0 +1,3 @@
+# Respuestas TP02 
+## 2 - f
+	No se puede encontrar al inspeccionar la rama principal porque la creación del archivo se efectuó en la rama Opcion-2  
